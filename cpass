@@ -1,0 +1,34 @@
+<html>
+	
+	<body>
+		<img class="logo" src="images/shutterstock_22.jpg"/> 
+		<h1 id="title">
+			AIRLINE RESERVATION
+		</h1>
+		<div>
+		
+		</div>
+		<br>
+		
+			
+			<br>
+			<table cellpadding='10'>
+				<strong>ENTER LOGIN DETAILS</strong>
+				
+				<tr>
+					<td>Enter your desired password  </td>
+					<td><input type="password" name="password" required><br><br></td>
+				</tr>
+				<tr>
+					<td>Enter your email ID</td>
+					<td><input type="text" name="email" required><br><br></td>
+				</tr>
+			</table>
+			<br>
+			
+			<br>
+			<input type="submit" value="Submit" name="Submit">
+			<br>
+		
+	</body>
+</html>
